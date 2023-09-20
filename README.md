@@ -3,9 +3,13 @@
 
 Currently, this project support some of ffmpeg command operation only, like convertion, but no play features. Also, it contains a few codecs only, but you can add and build your own.
 
+## Test
+  [APK demo](https://github.com/hhbgk/AndroidFFmpeg/blob/master/app/apk/)
+
 ## Features
 1. FFmpeg-4.0.2 + openh264-2.1.1
 2. Execute command on Android APP
+3. support "armeabi-v7a", "arm64-v8a"
 
 ## Usage
 ```kotlin
