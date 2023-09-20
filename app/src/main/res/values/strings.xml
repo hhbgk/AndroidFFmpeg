@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidFFmpeg</string>
+    <string name="execute_cmd">Execute</string>
+    <string name="example">AVI to Mp4</string>
+</resources>
