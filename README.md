@@ -1,5 +1,5 @@
 # AndroidFFmpeg
-![](https://github.com/hhbgk/AndroidFFmpeg/blob/master/pic/screenshot.png)
+<img src="https://github.com/hhbgk/AndroidFFmpeg/blob/master/pic/screenshot.png" width="300">
 
 Currently, this project support some of ffmpeg command operation only, like convertion, but no play features. Also, it contains a few codecs only, but you can add and build your own.
 
